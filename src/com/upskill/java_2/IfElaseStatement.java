@@ -4,7 +4,7 @@ public class IfElaseStatement {
 
 	public static void main(String[] args) {
 
-		int age = 65;
+		int age = 75;
 		if(age<13){
 			System.out.println("you are children");
 		
